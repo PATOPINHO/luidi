@@ -1,0 +1,29 @@
+{
+    "default": "external",
+
+    "external": "http://pladixoficial.ddns.net/api.php?lista={cc}",
+
+    "iugu": {
+        "account_id": "6F34D4C3307A4A3AA823D9E3AD9605C4",
+        "token": "5C6FA9D10E03B9566564924D057E7AA1152E02D456809D18A35935A91FEF4D70"
+    },
+    "mercadopago": {
+        "token": ""
+    },
+    "getnet": {
+        "client_id": "",
+        "client_secret": "",
+        "seller_id": ""
+    },
+    "cielo": {
+        "cieloMerchantId": "",
+        "cieloMerchantKey": ""
+    },
+    "pagarme": {
+        "api_key": ""
+    },
+    "erede": {
+        "pv": "",
+        "token": ""
+    }
+}

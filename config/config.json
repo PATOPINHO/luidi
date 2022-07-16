@@ -1,0 +1,12 @@
+{
+    "language": "pt_br",
+    "exchange_time_in_minutes": "7",
+    "expiration_payment_in_minutes": "60",
+    "token_bot": "5587322162:AAHOfHQsvAudQYTEuir3DfwPys0d5O4gTxI",
+    "user_suporte": "@oshelby",
+    "minimum_recharge": "10",
+    "footer_text": "*Bot Developer*: @D4RK4NGEL",
+    "donos": [
+        "5480863264"
+    ]
+}
